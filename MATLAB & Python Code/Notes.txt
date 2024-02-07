@@ -1,0 +1,2 @@
+- Final Software for 2024 ACC Paper
+- Besides MATLAB and relevant toolboxes, our software requires installation of CasADi and Ipopt. Please refer to our paper for the references to those tools.
