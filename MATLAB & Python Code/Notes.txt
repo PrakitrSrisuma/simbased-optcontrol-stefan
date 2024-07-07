@@ -1,2 +1,13 @@
 - Final Software for 2024 ACC Paper
-- Besides MATLAB and relevant toolboxes, our software requires installation of CasADi and Ipopt. Please refer to our paper for the references to those tools.
+
+- This software requires the installation of
+    1. MATLAB and optimization toolbox
+    2. CasADi
+    3. IPOPT
+    4. Python
+    5. GEKKO
+    Please refer to our paper for the references to those tools.
+
+- To run the code, extract all the files and folders into the same location.
+    - Run CellThawing_InputPower.m for Problem 1
+    - RUn CellThawing_MeltingSpeed.m for Problem 2
