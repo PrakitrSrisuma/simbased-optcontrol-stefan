@@ -42,7 +42,7 @@ optsim = 'off';  % simulation with the optimal heater temperature
 Ipopt = 'off';  % Ipopt
 fmincon = 'off';  % fmincon
 CasADi_ss = 'off';  % CasADi single shooting
-DAE = 'on';  % DAE-based method
+DAE = 'on';  % simulation-based method
 
 
 %% ODE solver
