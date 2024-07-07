@@ -11,8 +11,8 @@ close all; clear; clc;
 % Add paths
 addpath(genpath('Saved Data'),'Python','Events','Input Data','Plotting', ...
     'Objective Functions','Optimal Control', 'PDEs','Calculations')
-addpath(['C:\Users\pkta1\OneDrive - Chulalongkorn University\Academic\MIT\PhD_CSE\Research\' ...
-    'Cell Thawing\Optimal Control\MATLAB\CasADi\casadi-3.6.3-windows64-matlab2018b'])
+% Add path for CaSADi here.
+
 
 % Typical input data
 input_def = get_inputdata;  % unpack all default input data
