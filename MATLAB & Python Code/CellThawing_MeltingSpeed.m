@@ -11,8 +11,7 @@ close all; clear; clc;
 % Add paths
 addpath(genpath('Saved Data'),'Python','Events','Input Data','Plotting', ...
     'Objective Functions','Optimal Control', 'PDEs','Calculations')
-% Add path for CaSADi here.
-
+% Add path for CasADi here.
 
 % Typical input data
 input_def = get_inputdata;  % unpack all default input data
